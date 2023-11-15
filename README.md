@@ -20,7 +20,9 @@ This repository contains code for real-time facial recognition using the DeepFac
 ### [Usage](deepface_infernce)
 
 1. **Setup Database:**
+   - Create a new database for the DeepFace in data folder or.
    - Set the `db_path` variable to the path where your face database is stored.
+   - Save with identification name and store in database .
 
 
 ### Customization
